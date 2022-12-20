@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "title" : "Titel på produkt 1",
+        "desctiption" : "Detta är breskrivningen på produkt 1",
+        "price" : 111
+    },
+    {
+        "id" : 2,
+        "title" : "Titel på produkt 2",
+        "desctiption" : "Detta är breskrivningen på produkt 2",
+        "price" : 222
+    }
+]
